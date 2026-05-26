@@ -73,9 +73,9 @@ Spring Boot • React • MySQL • JWT • Docker
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumitdas01&show_icons=true&theme=tokyonight)
+![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitdas01&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitdas01&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitdas01&layout=compact&theme=tokyonight)
 
 ---
 
