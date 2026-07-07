@@ -12,8 +12,7 @@ I enjoy building real-world applications that simulate production-grade architec
 - 🌱 Currently learning System Design, DevOps, and Cloud Technologies
 - 🧠 Solving DSA problems consistently for placements and interviews
 - ⚡ Interested in Payment Systems, Backend Architecture, and Scalable Applications
-- 🎯 Goal: Become a strong Software Engineer
-
+- 
 ---
 
 ## 🛠️ Tech Stack
