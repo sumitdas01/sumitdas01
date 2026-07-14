@@ -12,7 +12,6 @@ I enjoy building real-world applications that simulate production-grade architec
 - 🌱 Currently learning System Design, DevOps, and Cloud Technologies
 - 🧠 Solving DSA problems consistently for placements and interviews
 - ⚡ Interested in Payment Systems, Backend Architecture, and Scalable Applications
-- 
 ---
 
 ## 🛠️ Tech Stack
@@ -67,14 +66,6 @@ A full-stack simulated payment gateway inspired by Stripe and Razorpay that mimi
 
 #### Tech Stack
 Spring Boot • React • MySQL • JWT • Docker
-
----
-
-## 📈 GitHub Stats
-
-![Sumit's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumitdas01&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitdas01&layout=compact&theme=tokyonight)
 
 ---
 
