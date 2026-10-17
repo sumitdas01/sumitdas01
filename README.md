@@ -1,71 +1,8 @@
 # Hi, I'm Sumit 👋
 
-BTech CSE student focused on backend engineering, full-stack development, DSA, and scalable software systems.
+BTech CSE student focused on AI engineering, full-stack development, DSA, and scalable software systems.
 
 I enjoy building real-world applications that simulate production-grade architectures and solving algorithmic problems regularly.
-
----
-
-## 🚀 About Me
-
-- 💻 Focused on Full Stack Development
-- 🌱 Currently learning System Design, DevOps, and Cloud Technologies
-- 🧠 Solving DSA problems consistently for placements and interviews
-- ⚡ Interested in Payment Systems, Backend Architecture, and Scalable Applications
----
-
-## 🛠️ Tech Stack
-
-### Languages
-- Java
-- JavaScript
-- SQL
-
-### Frontend
-- React.js
-- Tailwind CSS
-- HTML
-- CSS
-
-### Backend
-- Spring Boot
-- Node.js
-- Express.js
-- REST APIs
-
-### Database
-- MySQL
-- MongoDB
-
-### DevOps & Cloud
-- Docker
-- AWS EC2
-- GitHub Actions
-
-### Tools & Platforms
-- Git
-- GitHub
-- Postman
-- Linux
-- VS Code
-
----
-
-## 📌 Featured Projects
-
-### 🛡️ PaySim — Dummy Payment Gateway
-A full-stack simulated payment gateway inspired by Stripe and Razorpay that mimics real-world payment workflows without processing real money.
-
-#### Features
-- JWT Authentication
-- Payment Order Simulation
-- Webhook Handling
-- Transaction Management
-- REST APIs
-- Secure Backend Architecture
-
-#### Tech Stack
-Spring Boot • React • MySQL • JWT • Docker
 
 ---
 
